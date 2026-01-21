@@ -99,7 +99,7 @@ If you have any questions or suggestions, please feel free to open an Issue in t
 
 -----
 
-Created by Mrunali Kamerikar
+## Created by Mrunali Kamerikar
 
 
 
